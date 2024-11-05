@@ -1,0 +1,7 @@
+G:\Git42\DesktopGoose v0.31\decompiler\GooseDesktop\bin\Release\net452\GooseModdingAPI.dll
+G:\Git42\DesktopGoose v0.31\decompiler\GooseDesktop\bin\Release\net452\GooseModdingAPI.pdb
+G:\Git42\DesktopGoose v0.31\decompiler\GooseModdingAPI\obj\Release\net452\GooseModdingAPI.csproj.AssemblyReference.cache
+G:\Git42\DesktopGoose v0.31\decompiler\GooseModdingAPI\obj\Release\net452\GooseModdingAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git42\DesktopGoose v0.31\decompiler\GooseModdingAPI\obj\Release\net452\GooseModdingAPI.csproj.CoreCompileInputs.cache
+G:\Git42\DesktopGoose v0.31\decompiler\GooseModdingAPI\obj\Release\net452\GooseModdingAPI.dll
+G:\Git42\DesktopGoose v0.31\decompiler\GooseModdingAPI\obj\Release\net452\GooseModdingAPI.pdb

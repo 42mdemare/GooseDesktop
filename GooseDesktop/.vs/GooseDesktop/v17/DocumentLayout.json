@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|g:\\git42\\desktopgoose v0.31\\decompiler\\goosedesktop\\goosedesktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:goosedesktop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|g:\\git42\\desktopgoose v0.31\\decompiler\\goosedesktop\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FFF84-6AEF-40A8-87F3-A20670663FF8}|..\\GooseModdingAPI\\GooseModdingAPI.csproj|g:\\git42\\desktopgoose v0.31\\decompiler\\goosemoddingapi\\goosemoddingapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3948D156-9DEF-4314-A243-4AA8EFA1C8F8}|..\\MMQ\\MMQ.csproj|g:\\git42\\desktopgoose v0.31\\decompiler\\mmq\\mmq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3948D156-9DEF-4314-A243-4AA8EFA1C8F8}|..\\MMQ\\MMQ.csproj|g:\\git42\\desktopgoose v0.31\\decompiler\\mmq\\mmq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\thegoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:thegoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\twitchdesktopshared\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:twitchdesktopshared\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83FFF84-6AEF-40A8-87F3-A20670663FF8}|..\\GooseModdingAPI\\GooseModdingAPI.csproj|g:\\git42\\desktopgoose v0.31\\decompiler\\goosemoddingapi\\gooseshared\\gooserenderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\refactor\\goosefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A19698-9A14-41CE-9A28-A249003D63E5}|GooseDesktop.csproj|solutionrelative:refactor\\goosefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MMQ",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\MMQ\\MMQ.csproj",
+              "RelativeDocumentMoniker": "..\\MMQ\\MMQ.csproj",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\MMQ\\MMQ.csproj",
+              "RelativeToolTip": "..\\MMQ\\MMQ.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T22:48:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MMQ",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\MMQ\\MMQ.csproj",
+              "RelativeDocumentMoniker": "..\\MMQ\\MMQ.csproj",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\MMQ\\MMQ.csproj",
+              "RelativeToolTip": "..\\MMQ\\MMQ.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T22:48:51.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GooseModdingAPI",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseModdingAPI\\GooseModdingAPI.csproj",
+              "RelativeDocumentMoniker": "..\\GooseModdingAPI\\GooseModdingAPI.csproj",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseModdingAPI\\GooseModdingAPI.csproj",
+              "RelativeToolTip": "..\\GooseModdingAPI\\GooseModdingAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T22:48:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GooseDesktop",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\GooseDesktop.csproj",
+              "RelativeDocumentMoniker": "GooseDesktop.csproj",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\GooseDesktop.csproj",
+              "RelativeToolTip": "GooseDesktop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T22:45:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\MainGame.cs",
+              "RelativeDocumentMoniker": "MainGame.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\MainGame.cs",
+              "RelativeToolTip": "MainGame.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:41:50.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:39:21.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:39:19.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:38:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\TwitchDesktopShared\\Constants.cs",
+              "RelativeDocumentMoniker": "TwitchDesktopShared\\Constants.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\TwitchDesktopShared\\Constants.cs",
+              "RelativeToolTip": "TwitchDesktopShared\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:37:44.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TheGoose.cs",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\TheGoose.cs",
+              "RelativeDocumentMoniker": "TheGoose.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\TheGoose.cs",
+              "RelativeToolTip": "TheGoose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:33:08.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GooseFunctions.cs",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Refactor\\GooseFunctions.cs",
+              "RelativeDocumentMoniker": "Refactor\\GooseFunctions.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseDesktop\\Refactor\\GooseFunctions.cs",
+              "RelativeToolTip": "Refactor\\GooseFunctions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:32:39.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GooseRenderData.cs",
+              "DocumentMoniker": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseModdingAPI\\GooseShared\\GooseRenderData.cs",
+              "RelativeDocumentMoniker": "..\\GooseModdingAPI\\GooseShared\\GooseRenderData.cs",
+              "ToolTip": "G:\\Git42\\DesktopGoose v0.31\\decompiler\\GooseModdingAPI\\GooseShared\\GooseRenderData.cs",
+              "RelativeToolTip": "..\\GooseModdingAPI\\GooseShared\\GooseRenderData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:32:24.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
